@@ -7,3 +7,10 @@
   top: 0;
   left: 0;
 }
+
+#my-id {
+  z-index: 1;
+  position: fixed;
+  left: 50%;
+  font-size: 12px;
+}

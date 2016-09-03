@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
+    "firebase": "^3.3.0",
     "react-router": "^2.7.0",
     "react-scripts": "0.4.0"
   },

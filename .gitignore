@@ -12,6 +12,3 @@ build
 # misc
 .DS_Store
 npm-debug.log
-
-# Firebase conf
-firebase.js

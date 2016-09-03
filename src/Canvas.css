@@ -1,0 +1,9 @@
+.Canvas {
+  background-color: #faf9f9;
+  cursor: crosshair;
+  position: fixed;
+  padding: 0;
+  margin: 0;
+  top: 0;
+  left: 0;
+}
